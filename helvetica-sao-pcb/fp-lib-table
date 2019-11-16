@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name badgelife_sao_v169bis)(type KiCad)(uri ${KIPRJMOD}/badgelife_sao_v169bis.pretty)(options "")(descr ""))
+  (lib (name side_led)(type KiCad)(uri ${KIPRJMOD}/side_led.pretty)(options "")(descr ""))
+  (lib (name artwork)(type KiCad)(uri ${KIPRJMOD}/artwork.pretty)(options "")(descr ""))
+  (lib (name SMT-1127-S-R)(type Legacy)(uri ${KIPRJMOD}/SMT-1127-S-R.mod)(options "")(descr ""))
+)

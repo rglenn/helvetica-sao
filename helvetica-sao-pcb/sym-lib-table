@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name MCU_Microchip_SAMD_Extra)(type Legacy)(uri ${KIPRJMOD}/MCU_Microchip_SAMD_Extra.lib)(options "")(descr ""))
+  (lib (name badgelife_shitty_addon_v169bis)(type Legacy)(uri ${KIPRJMOD}/badgelife_shitty_addon_v169bis.lib)(options "")(descr ""))
+  (lib (name SMT-1127-S-R)(type Legacy)(uri ${KIPRJMOD}/SMT-1127-S-R.lib)(options "")(descr ""))
+)
